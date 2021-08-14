@@ -60,8 +60,10 @@ section {
 }
 
 .desc {
-    color: #503842;
+    color: #B85C38;
     font-size: 22px;
+    font-family:'Gill Sans';
+    font-weight: bold;
 }
 
 h1 {
@@ -101,4 +103,31 @@ img.kotak {
 .status {
     color: #503842;
     font-size: 30px;
+}
+
+.workex {
+    margin-top: 30px;
+}
+
+#about {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+#kontak {
+    background-color:bisque;
+    margin-bottom: 0;
+}
+
+#fuse {
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#pgascom {
+    margin-bottom: 0px;
+    margin-left: 100px;
+}
+#bakrie {
+    margin-bottom: 0px;
+    margin-left: 100px;
 }
