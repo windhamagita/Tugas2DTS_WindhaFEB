@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@1&family=STIX+Two+Text&display=swap');
+
 * {
     text-decoration: none;
     margin: 0px;
@@ -15,7 +17,7 @@ body {
     width: 1100px;
     margin: auto;
     position: relative;
-}
+}      
 
 img.rounded {
     object-fit: cover;
@@ -23,6 +25,7 @@ img.rounded {
     height: 300px;
     width: 300px;
     margin-top: 60px;
+    margin-left: 50px;
 }
 
 section {
@@ -37,7 +40,7 @@ section {
     margin-left: 50px;
     font-size: 18px;
     font-weight: bold;
-    font-family:'comic sans ms';
+    font-family: 'STIX Two Text', serif;
     color: #6F4C5B;
 }
 
@@ -64,11 +67,11 @@ h1 {
 }
 
 img.kotak {
-    object-fit: cover;
     border-radius: 10%;
     height: 150px;
     width: 200px;
     margin-top: 50px;
+    border:lightslategrey 10px;
 }
 
 .work {
@@ -118,4 +121,14 @@ img.kotak {
 #bakrie {
     margin-bottom: 0px;
     margin-left: 100px;
+}
+
+.periode {
+    padding: 5px 20px;
+    background-color: brown;
+    font-family: 'STIX Two Text', serif;
+    font-size: 18px;
+    color: cornsilk;
+    border-radius: 10px;
+    border: none;
 }
