@@ -17,19 +17,6 @@ body {
     position: relative;
 }
 
-.logo a {
-    font-size: 50px;
-    font-weight: 800;
-    float: left;
-    font-family: courier;
-    color: #6F4C5B;
-}
-
-.menu {
-    float: right;
-
-}
-
 img.rounded {
     object-fit: cover;
     border-radius: 100%;
@@ -61,7 +48,7 @@ section {
 
 .desc {
     color: #B85C38;
-    font-size: 22px;
+    font-size: 26px;
     font-family:'Gill Sans';
     font-weight: bold;
 }
@@ -98,6 +85,7 @@ img.kotak {
 .copy {
     text-align: center;
     margin-bottom: 10px;
+    font-size: 12px;
 }
 
 .status {
